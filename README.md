@@ -40,9 +40,9 @@ Estudante de Analise e Desenvolvimento de Sistemas <br>
 <br>
 
 > **`👋 Como falar comigo?`** <br>
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511985940938)
-[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/oleesilva/oleesilva/discussions/new)
-
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511985940938)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=0af)](https://github.com/oleesilva/oleesilva/discussions/new)
+[![Linkedin](https://img.shields.io/badge/Linkedin-128?style=for-the-badge)](https://www.linkedin.com/in/oleesilva)
 <br>
 
 > **`📊 Estatísticas`** <br>
